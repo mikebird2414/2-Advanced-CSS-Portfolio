@@ -2,6 +2,13 @@
 
 This week a protfolio was created from scratch to showcase where we are at the begginig of the course. Over the weeks as we learn more we will be alb to come back to the code to improve on our personal page displaying our hard work. This task I was able to create a functional portfolio page giving insight to a little bit about my background such as intrest, hobbies, and work/education experience. 
 
+# Links:
+Git Resository Link: https://github.com/mikebird2414/2-Advanced-CSS-Portfolio
+
+Link to Michael's Portfolio: https://mikebird2414.github.io/2-Advanced-CSS-Portfolio/
+
+
+
 ## Acceptance Criteria
 
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
