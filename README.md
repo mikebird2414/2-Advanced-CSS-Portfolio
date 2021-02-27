@@ -27,7 +27,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio html](./Assets/htmlss.png)
+![portfolio Webpage](./Assets/webpage.png)
+![portfolio Webpage](./Assets/CSSss.png)
+![portfolio Webpage](./Assets/htmlss.png)
+
 
 
 
