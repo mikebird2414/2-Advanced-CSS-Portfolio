@@ -1,0 +1,41 @@
+/* CSS Code */
+
+img{
+    display: flex;
+    flex-wrap: wrap;
+}
+/* wrap header, body, main, footer */
+header{
+    display: flex;
+    flex-wrap: wrap;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(255, 235, 205, 0.726);
+}
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #ffebcd;
+}
+
+h3{
+    font-size: 30px;
+    display: flex;
+}
+img{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer{
+    display: flex;
+    flex-wrap: flex;
+}
